@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class ConversaoCelsiusf {
 	//Variáveis
 			static String nome;
